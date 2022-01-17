@@ -1,0 +1,27 @@
+.seuPalpite{
+    color: black;
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+  color: black;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.90rem;
+}
+
+h1{
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.container{
+  text-align: center;
+}
+
+
+.palpites, .ultimoResultado, .baixoOuAlto {
+  color: black;
+  text-align: center;
+}
